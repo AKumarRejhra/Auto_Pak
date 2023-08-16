@@ -1,0 +1,20 @@
+{
+  "provincelist": [
+    {
+      "id": 1,
+      "State": "Punjab"
+    },
+    {
+      "id": 2,
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 3,
+      "State": "Balochistan"
+    },
+    {
+      "id": 4,
+      "State": "Sindh"
+    }
+  ]
+}

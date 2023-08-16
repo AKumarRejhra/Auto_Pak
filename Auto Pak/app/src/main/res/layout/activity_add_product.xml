@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:fillViewport="true"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddProductActivity"
+    android:background="@color/purple_200">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/icon"
+
+        />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="Add New Item"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+    <EditText
+        android:padding="5dp"
+        android:background="@drawable/edt_border"
+        android:layout_margin="10dp"
+        android:id="@+id/nameofitem"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:hint="Enter Name of Item"/>
+
+    <Spinner
+
+        android:backgroundTint="@color/white"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"/>
+    <EditText
+        android:padding="5dp"
+        android:background="@drawable/edt_border"
+        android:layout_margin="10dp"
+        android:id="@+id/pricefitem"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:inputType="number"
+        android:hint="Enter Price of Item"/>
+
+
+        <ImageView
+            android:src="@drawable/ic_baseline_image_24"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/imageview"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2"
+
+            android:layout_marginRight="4pt"
+            android:layout_marginLeft="4pt"
+            android:layout_marginTop="10pt">
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_margin="2dp"
+        android:id="@+id/btn_choose"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_button"
+        android:backgroundTint="#D33B30"
+        android:textColor="@color/white"
+        android:text="Choose Image"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_margin="2dp"
+        android:id="@+id/btn_add"
+        android:layout_width="0dp"
+                android:layout_weight="1"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_button"
+        android:backgroundTint="#3F51B5"
+        android:textColor="@color/white"
+        android:text="Add"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

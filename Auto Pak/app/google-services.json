@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1083071020762",
+    "firebase_url": "https://autopak-8a083-default-rtdb.firebaseio.com",
+    "project_id": "autopak-8a083",
+    "storage_bucket": "autopak-8a083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083071020762:android:a5892abb2926fba2b22fe3",
+        "android_client_info": {
+          "package_name": "com.project.autopak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083071020762-b1an7b6lj4024d3kkvonc65l6fs8kfnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.autopak",
+            "certificate_hash": "8a2ed975bff4273d93fe803400573fe0832f6fca"
+          }
+        },
+        {
+          "client_id": "1083071020762-uuub8baf0pg22abm9coarovr2dsi9nkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJbgN2cunVzTEOc3xue-3IfX07JaLAn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083071020762-uuub8baf0pg22abm9coarovr2dsi9nkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

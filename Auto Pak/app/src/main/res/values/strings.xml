@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Auto Pak</string>
+
+    <string name="nav_open">Navigation Open</string>
+    <string name="nav_close">Navigation Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

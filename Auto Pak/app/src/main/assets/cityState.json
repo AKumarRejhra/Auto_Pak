@@ -1,0 +1,206 @@
+{
+  "citylist": [
+    {
+      "id": 1,
+      "city": "Lahore",
+      "State": "Punjab"
+    },
+    {
+      "id": 2,
+      "city": "Faisalabad",
+      "State": "Punjab"
+    },
+    {
+      "id": 3,
+      "city": "Rawalpindi",
+      "State": "Punjab"
+    },
+    {
+      "id": 4,
+      "city": "Gujranwala",
+      "State": "Punjab"
+    },
+    {
+      "id": 5,
+      "city": "Multan",
+      "State": "Punjab"
+    },
+    {
+      "id": 6,
+      "city": "Bahawalpur",
+      "State": "Punjab"
+    },
+    {
+      "id": 7,
+      "city": "Sargodha",
+      "State": "Punjab"
+    },
+    {
+      "id": 8,
+      "city": "Sialkot",
+      "State": "Punjab"
+    },
+    {
+      "id": 9,
+      "city": "Sheikhupura",
+      "State": "Punjab"
+    },
+    {
+      "id": 10,
+      "city": "Islamabad",
+      "State": "Punjab"
+    },
+    {
+      "id": 11,
+      "city": "Abbottabad",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 12,
+      "city": "Karak",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 13,
+      "city": "Kohat",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 14,
+      "city": "Kulachi",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 15,
+      "city": "Lakki Marwat",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 16,
+      "city": "Nowshera",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 17,
+      "city": "Peshawar",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 18,
+      "city": "Swabi",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 19,
+      "city": "Swat",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 20,
+      "city": "Tank",
+      "State": "Khyber Pakhtunkhwa"
+    },
+    {
+      "id": 21,
+      "city": "Badin",
+      "State": "Sindh"
+    },
+    {
+      "id": 22,
+      "city": "Dadu",
+      "State": "Sindh"
+    },
+    {
+      "id": 23,
+      "city": "Ghotki",
+      "State": "Sindh"
+    },
+    {
+      "id": 24,
+      "city": "Hyderabad",
+      "State": "Sindh"
+    },
+    {
+      "id": 25,
+      "city": "Jacobabad",
+      "State": "Sindh"
+    },
+    {
+      "id": 26,
+      "city": "Jamshoro",
+      "State": "Sindh"
+    },
+    {
+      "id": 27,
+      "city": "Karachi Central",
+      "State": "Sindh"
+    },
+    {
+      "id": 28,
+      "city": "Larkana",
+      "State": "Sindh"
+    },
+    {
+      "id": 29,
+      "city": "Korangi",
+      "State": "Sindh"
+    },
+    {
+      "id": 30,
+      "city": "Malir",
+      "State": "Sindh"
+    },
+    {
+      "id": 31,
+      "city": "Quetta",
+      "State": "Balochistan"
+    },
+    {
+      "id": 32,
+      "city": "Turbat",
+      "State": "Balochistan"
+    },
+    {
+      "id": 33,
+      "city": "Khuzdar",
+      "State": "Balochistan"
+    },
+    {
+      "id": 34,
+      "city": "Hub",
+      "State": "Balochistan"
+    },
+    {
+      "id": 35,
+      "city": "Chaman",
+      "State": "Balochistan"
+    },
+    {
+      "id": 36,
+      "city": "Dera Murad Jamali",
+      "State": "Balochistan"
+    },
+    {
+      "id": 37,
+      "city": "Gwadar",
+      "State": "Balochistan"
+    },
+    {
+      "id": 38,
+      "city": "Sibi",
+      "State": "Balochistan"
+    },
+    {
+      "id": 39,
+      "city": "Zhob",
+      "State": "Balochistan"
+    },
+    {
+      "id": 31,
+      "city": "Qalat",
+      "State": "Balochistan"
+    }
+
+
+  ]
+}
